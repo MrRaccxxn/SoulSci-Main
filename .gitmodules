@@ -1,0 +1,6 @@
+[submodule "desci-dao"]
+	path = desci-dao
+	url = https://github.com/MrRaccxxn/desci-dao
+[submodule "lighthouse-implementation"]
+	path = lighthouse-implementation
+	url = https://github.com/MrRaccxxn/lighthouse-implementation
