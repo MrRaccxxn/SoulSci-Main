@@ -68,12 +68,14 @@ a public library platform with decentralized storage for users, using lighthouse
 **Step #1** - Clone the project
 
 ```bash
-$ git clone https://github.com/MrRaccxxn/desci-dao
+$ git clone https://github.com/MrRaccxxn/SoulSci-Main
 ```
 
 **Step #2**
 
-- Install dependencies: `npm i` OR `yarn`
+**Step #2**
+
+- Install dependencies: `npm i` OR `yarn` on each project
 
 **Step #3**
 
